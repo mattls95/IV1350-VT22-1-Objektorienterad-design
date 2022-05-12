@@ -1,0 +1,3 @@
+Number of sales made: 1 Total Revenue: 972.0
+Number of sales made: 2 Total Revenue: 1626.0
+Number of sales made: 3 Total Revenue: 2386.0
